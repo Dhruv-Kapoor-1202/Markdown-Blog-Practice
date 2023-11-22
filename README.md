@@ -1,7 +1,7 @@
 ---
 author: DHRUV KAPOOR
 date: 22-11-23
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 ---
 
 # Markdown-Blog-Practice
