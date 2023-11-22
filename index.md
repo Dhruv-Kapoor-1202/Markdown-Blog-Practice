@@ -6,6 +6,8 @@ theme: jekyll-theme-minimal
 
 # Greetings
 
+(link)[./README.md]
+
 This is a Blog post 
 
 - This is a list item
