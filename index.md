@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 
 # Greetings
 
-(link)[./README.md]
+Heloo(link)[./README.md]
 
 This is a Blog post 
 
